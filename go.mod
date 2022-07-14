@@ -1,4 +1,4 @@
-module gitlab.falabella.com/fif/integracion/forthehorde/commons/log-toolkit
+module github.com/validatecl/log-toolkit
 
 go 1.13
 
@@ -12,7 +12,6 @@ require (
 	github.com/rogpeppe/godef v1.1.1 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/uudashr/gopkgs v2.0.1+incompatible // indirect
-	gitlab.falabella.com/fif/integracion/forthehorde/commons/kafka-toolkit v1.0.10 // indirect
 	go.uber.org/zap v1.13.0
 	golang.org/x/tools v0.0.0-20200107050322-53017a39ae36 // indirect
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 // indirect

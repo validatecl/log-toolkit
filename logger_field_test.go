@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	log_toolkit "gitlab.falabella.com/fif/integracion/forthehorde/commons/log-toolkit"
+	log_toolkit "github.com/validatecl/log-toolkit"
 	as "gotest.tools/assert"
 )
 

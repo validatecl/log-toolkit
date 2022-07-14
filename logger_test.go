@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	log_toolkit "gitlab.falabella.com/fif/integracion/forthehorde/commons/log-toolkit"
+	log_toolkit "github.com/validatecl/log-toolkit"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"go.uber.org/zap/zaptest/observer"

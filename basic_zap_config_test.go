@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	logger "gitlab.falabella.com/fif/integracion/forthehorde/commons/log-toolkit"
+	logger "github.com/validatecl/log-toolkit"
 )
 
 func TestBaseConfigurer(t *testing.T) {
